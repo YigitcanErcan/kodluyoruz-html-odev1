@@ -1,4 +1,4 @@
-# kodluyoruz-html-odev1
+# Kodluyoruz HTML Odev 1
 Front-End patikası kapsamında yaptığım ilk ödevdir.
 
 
